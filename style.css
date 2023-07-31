@@ -1,0 +1,21 @@
+body
+{
+    background-color: rgba(167, 255, 224, 0.897);
+    color: rgb(248, 110, 241);
+}
+.heading
+{
+    width: 80%;
+    font-size: 35px;
+}
+.hello , #name , #accuracy
+{
+    font-size: 15px;
+    color: blueviolet;
+}
+#camera , #answer
+{
+    border: 4px dashed rgb(255, 199, 134);
+    width: 350px;
+    height: 300px;
+}
